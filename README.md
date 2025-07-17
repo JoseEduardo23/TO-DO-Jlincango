@@ -51,4 +51,5 @@ Foto de la tarea, permitiendo seleccionar desde la galería o tomar una foto (19
 
 <img width="1862" height="679" alt="image" src="https://github.com/user-attachments/assets/b80c4b9a-562d-4083-95f4-713b2ab52e4c" />
 
-El apk se encuentra en el documento likapk.txt
+El apk se encuentra en el documento linkapk.txt
+
