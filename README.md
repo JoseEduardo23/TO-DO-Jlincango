@@ -29,6 +29,8 @@ Foto de la tarea, permitiendo seleccionar desde la galería o tomar una foto (19
 
 4️⃣ Hora de publicación con Timestamp.now() o selección mediante DatePicker (2 ptos)
 
+![Imagen de WhatsApp 2025-07-17 a las 16 33 09_6219f49b](https://github.com/user-attachments/assets/fa2dac77-3b0c-4375-91aa-2566e2d2d997)
+
 
 5️⃣ Actualización de tareas (10 ptos): Posibilidad de marcar tareas como completadas.
 
@@ -48,3 +50,5 @@ Foto de la tarea, permitiendo seleccionar desde la galería o tomar una foto (19
 <img width="1834" height="816" alt="image" src="https://github.com/user-attachments/assets/d58561a5-f0b4-40a1-b65c-e950b548da71" />
 
 <img width="1862" height="679" alt="image" src="https://github.com/user-attachments/assets/b80c4b9a-562d-4083-95f4-713b2ab52e4c" />
+
+El apk se encuentra en el documento likapk.txt
